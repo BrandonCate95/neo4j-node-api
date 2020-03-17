@@ -1,0 +1,14 @@
+{
+  "name": "neo4j-node-api",
+  "version": "1.0.0",
+  "description": "node/lambda api to neo4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Cate",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^1.6.3"
+  }
+}
